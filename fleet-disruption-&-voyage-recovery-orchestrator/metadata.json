@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Disruption & Voyage Recovery Orchestrator",
+  "description": "Deterministic maritime voyage recovery orchestrator with policy authorization gates, idempotency deduplication, provenance tracking, and role-based authority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
